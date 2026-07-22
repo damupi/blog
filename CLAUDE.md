@@ -119,21 +119,30 @@ captured 2026-07-21). Site builds clean into `_site/`.
 The `github-pages` gem (GitHub's own meta-gem pinning Jekyll 3.9) is
 **not** used here — it's incompatible with modern Ruby (relies on
 `String#tainted?`, removed in Ruby 3.2+). The Gemfile uses plain
-`jekyll ~> 4.3` instead. Deployment therefore should go through a **GitHub
-Actions** workflow (e.g. `actions/jekyll-build-pages` +
-`actions/deploy-pages`), not GitHub Pages' legacy built-in Jekyll build,
-so the deployed Jekyll version matches what's tested locally.
+`jekyll ~> 4.3` instead. Deployment goes through a **GitHub Actions**
+workflow (`.github/workflows/deploy.yml`, using `actions/configure-pages` +
+`actions/upload-pages-artifact` + `actions/deploy-pages`), not GitHub
+Pages' legacy built-in Jekyll build, so the deployed Jekyll version matches
+what's tested locally.
 
-## Deployment (planned)
+## Deployment
 
-- Repo: `github.com/damupi/blog` (not yet created/pushed).
-- Custom domain: `blog.damupi.com` is currently hosted at `blogger.com/damupi`
-  (Blogger). It will be redirected to this GitHub Pages site via a
-  Cloudflare DNS change, plus a `CNAME` file in this repo.
+- Repo: `github.com/damupi/blog` — created and pushed, `main` is the default
+  branch. Pages build source is set to "GitHub Actions" (via `gh api
+  repos/damupi/blog/pages`, `build_type=workflow`), not the legacy branch
+  build.
+- Every push to `main` auto-builds and deploys via the Actions workflow.
+- Custom domain: `blog.damupi.com` was migrated off Blogger. Cloudflare DNS
+  now has a `CNAME` record `blog` → `damupi.github.io` (**DNS only**, proxy
+  off — required so GitHub can issue the domain's Let's Encrypt cert; can
+  revisit proxying once HTTPS is confirmed working). The domain is also
+  registered on the repo's Pages settings (`cname: blog.damupi.com`) and the
+  `CNAME` file is committed. HTTPS enforcement gets flipped on once GitHub
+  finishes provisioning the certificate.
 - `www.damupi.com` is a separate repo/site (`github.com/damupi/website`,
   React/Vite) and is not affected by this.
 
 ## Not done yet
 
-- Repo not created on GitHub, nothing pushed, DNS not switched.
-- No GitHub Actions workflow written yet.
+- Nothing structural — the site is live and deploying automatically.
+  Ongoing work is just content (new posts as they're published elsewhere).
