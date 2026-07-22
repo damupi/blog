@@ -1,0 +1,37 @@
+title: damupi
+tagline: "writing"
+description: "Technical writing on analytics engineering, automation, MCP tooling and AI agents."
+url: "https://blog.damupi.com"
+baseurl: ""
+main_site_url: "https://www.damupi.com"
+author: damupi
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-paginate
+
+paginate: 10
+paginate_path: "/page:num/"
+
+permalink: /:year/:month/:day/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - unmatched-images.md
+  - CLAUDE.md
+  - .design-ref
+  - vendor
+  - node_modules
