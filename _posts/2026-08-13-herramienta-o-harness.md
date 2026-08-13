@@ -1,21 +1,21 @@
 ---
-title: "Herramienta o Harness"
+title: "Herramienta o Harnés"
 date: 2026-08-13
-tags: ["AI", "Claude Code", "harness", "AI agents"]
+tags: ["AI", "Claude Code", "harnés", "AI agents"]
 category: professional
 ---
 
 ![](/img/2026-08-13-herramienta-o-harness-1.png)
 
-Muchos de vosotros me habéis dicho que os gusta cómo escribo, pero que a veces es difícil de seguirme. Así que hoy voy a hablar de algo más general sobre la inteligencia artificial: para qué podemos usarla, qué es una herramienta de código y qué es otro tipo de herramienta, ese harness del que todo el mundo habla ahora, y todo con ejemplos prácticos que he vivido en primera persona. Vamos allá.
+Muchos de vosotros me habéis dicho que os gusta cómo escribo, pero que a veces es difícil de seguirme. Así que hoy voy a hablar de algo más general sobre la inteligencia artificial: para qué podemos usarla, qué es una herramienta de código y qué es otro tipo de herramienta, ese harnés del que todo el mundo habla ahora, y todo con ejemplos prácticos que he vivido en primera persona. Vamos allá.
 
-Yo utilizo Claude Code. Claude Code es **una herramienta de código**: fue diseñada principalmente para generar código. Otras herramientas, como Claude Chat, están pensadas para responder a tus preguntas. ¿Significa esto que tengo que ceñirme a esa definición? No, nada más lejos de eso. Puedes utilizar las herramientas como quieras, o como puedas — y aquí entra **el harness**.
+Yo utilizo Claude Code. Claude Code es **una herramienta de código**: fue diseñada principalmente para generar código. Otras herramientas, como Claude Chat, están pensadas para responder a tus preguntas. ¿Significa esto que tengo que ceñirme a esa definición? No, nada más lejos de eso. Puedes utilizar las herramientas como quieras, o como puedas — y aquí entra **el harnés**.
 
 Un ejemplo sencillo de lo que puedes hacer con una herramienta u otra: en Claude Code le puedo decir que me escriba un borrador para mandar a mi compañía de seguros y que lo deje guardado en mi ordenador. Claude Chat no puede hacer eso. No es que Claude Chat no sepa escribir el borrador — lo hará, de hecho —, pero serás tú quien tenga que copiarlo de la herramienta y pegarlo donde haga falta. El borrador del email no es código, es un texto que entiende cualquier persona que hable ese idioma. Por eso la herramienta ME PERMITE hacer cosas para las que, en principio, no fue diseñada.
 
-**Esto es el harness: la estructura o "arnés" que rodea al modelo.** Por un lado le da la capacidad de actuar (como guardar ese archivo en tu ordenador) y por otro le pone límites de seguridad sobre lo que la aplicación puede hacer por sí misma en tu sistema.
+**Esto es el harnés: la estructura o "arnés" que rodea al modelo.** Por un lado le da la capacidad de actuar (como guardar ese archivo en tu ordenador) y por otro le pone límites de seguridad sobre lo que la aplicación puede hacer por sí misma en tu sistema.
 
-Y ese matiz importa, porque se confunde fácil. El otro día quería montar un agente que revisara el contenido de varias páginas y, basado en eso, me diera un resultado. Para muchos, esto es lo que se llama un scraper, y algunos lo consideran poco lícito entrar en páginas web y capturar esa información. Le pedí a ChatGPT que me ayudara con el código del agente y se negó — me dijo que no iba a programar eso, que no estaba bien. **¿Es esto el harness? No.** Esto es cómo está entrenado el modelo para responderte de una manera o de otra. **El harness es el límite de lo que la herramienta te deja hacer técnicamente; esto es el límite de lo que el modelo decide hacer.**
+Y ese matiz importa, porque se confunde fácil. El otro día quería montar un agente que revisara el contenido de varias páginas y, basado en eso, me diera un resultado. Para muchos, esto es lo que se llama un scraper, y algunos lo consideran poco lícito entrar en páginas web y capturar esa información. Le pedí a ChatGPT que me ayudara con el código del agente y se negó — me dijo que no iba a programar eso, que no estaba bien. **¿Es esto el harnés? No.** Esto es cómo está entrenado el modelo para responderte de una manera o de otra. **El harnés es el límite de lo que la herramienta te deja hacer técnicamente; esto es el límite de lo que el modelo decide hacer.**
 
 Dato gracioso: cuando me puse a montar una aplicación con varios agentes y quería saber qué modelo era mejor para cada tarea, OpenAI solo me recomendó sus propios modelos, y Anthropic hizo lo mismo. Solo cuando le pregunté a Deepseek fue completamente neutral y me dio modelos que no eran suyos.
 
