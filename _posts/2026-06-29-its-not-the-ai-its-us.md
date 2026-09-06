@@ -9,7 +9,7 @@ source_url: "https://damupi256603.substack.com/p/its-not-the-ai-its-us"
 
 ![](/img/2026-06-29-its-not-the-ai-its-us-1.jpg)
 
-A conversation with Jose Luis Loren triggered something that had been sitting right in front of me for months.
+A conversation with a friend triggered something that had been sitting right in front of me for months.
 
 We were talking about AI implementation at work — what makes it stick, what makes it fail — and somewhere in that conversation, something clicked. The problem isn’t the technology. It’s never been the technology.
 
