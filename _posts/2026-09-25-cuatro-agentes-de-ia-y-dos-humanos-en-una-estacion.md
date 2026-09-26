@@ -15,17 +15,17 @@ Hace poco, mi pareja y yo nos fuimos de Madrid a Valencia en un tren de alta vel
 
 Levanté la mirada y vi a una persona al lado. Un humano. Retiré el billete de la máquina y me acerqué a él.
 
-—Perdone, ¿me da dos billetes para ir a Chamartín?
+*—Perdone, ¿me da dos billetes para ir a Chamartín?*
 
-—Sí, claro. ¿Vais a coger algún tren de alta velocidad?
+*—Sí, claro. ¿Vais a coger algún tren de alta velocidad?*
 
-—Sí, vamos a Valencia.
+*—Sí, vamos a Valencia.*
 
-—Entonces no necesitáis comprarlos. Con vuestro billete de alta velocidad, el trayecto de Cercanías está incluido.
+*—Entonces no necesitáis comprarlos. Con vuestro billete de alta velocidad, el trayecto de Cercanías está incluido.*
 
 Ahí estaba: **el contexto**.
 
-La máquina podía procesar lo que yo le estaba pidiendo. Aquel hombre entendió lo que realmente intentaba hacer. Solo necesitó hacerme una pregunta más.
+La máquina podía **procesar lo que yo le estaba pidiendo**. Aquel hombre entendió **lo que realmente intentaba hacer**. Solo necesitó hacerme una pregunta más.
 
 Al llegar a Chamartín, el mismo billete que nos había dejado entrar no nos permitió salir. Probé el código QR desde todos los ángulos y a distintas distancias. Nada.
 
@@ -43,7 +43,7 @@ Esta vez fue distinto.
 
 Llamé y, después de dos tonos, una persona respondió. Tenían una mesa disponible dentro de una hora. Reserva hecha. Problema resuelto en menos de un minuto.
 
-Cuando llegamos, había una cola enorme. Dos carriles separados por una cinta: el de la izquierda lleno y el de la derecha vacío. En las mesas se veía mucho más movimiento de personal y clientes. Todo parecía funcionar más rápido. Más personas, más reservas, más eficiencia.
+Cuando llegamos, había una cola enorme. Dos carriles separados por una cinta: el de la izquierda lleno y el de la derecha vacío. En las mesas se veía mucho más movimiento de personal y clientes. Todo parecía funcionar más rápido. Más personas, más reservas, **más eficiencia**.
 
 No sé si habían externalizado las reservas, cambiado el sistema o simplemente coincidimos con un día especialmente concurrido. Lo que sí vi fue un restaurante capaz de mover a muchas más personas que en mis visitas anteriores.
 
@@ -57,28 +57,28 @@ Aprovechando que estaba en España, también tenía que hacer unas gestiones en 
 
 Mientras esperábamos a que llegaran unos documentos, salió el tema de la inteligencia artificial.
 
-Últimamente no sé muy bien cómo explicarle a alguien que, mientras hablamos, puedo tener cuatro subagentes trabajando en paralelo en partes diferentes de un mismo proyecto. No sé si decir que tengo asistentes, procesos o simplemente programas. Todavía estoy intentando entender cómo cambia eso mi propio trabajo.
+Últimamente no sé muy bien cómo explicarle a alguien que, mientras hablamos, puedo tener **cuatro subagentes trabajando en paralelo** en partes diferentes de un mismo proyecto. No sé si decir que tengo asistentes, procesos o simplemente programas. Todavía estoy intentando entender cómo cambia eso mi propio trabajo.
 
 La persona del banco expresó la preocupación que aparece casi siempre en estas conversaciones: si la IA terminará sustituyéndolos, si una máquina podrá reemplazar el trato y el tacto humano.
 
 Yo asentía porque entendía perfectamente lo que quería decir. Dos humanos acababan de salvar nuestro trayecto a Valencia precisamente porque comprendieron el contexto que las máquinas no tenían.
 
-Y, al mismo tiempo, solo podía pensar en cómo preguntarle si podía añadir en copia a Hermes, mi asistente personal. Hablo con él a través de Telegram, funciona las veinticuatro horas en un servidor y podría ayudarme a seguir esa gestión y muchas otras.
+Y, al mismo tiempo, solo podía pensar en cómo preguntarle si podía añadir en copia a **Hermes, mi asistente personal**. Hablo con él a través de Telegram, funciona las veinticuatro horas en un servidor y podría ayudarme a seguir esa gestión y muchas otras.
 
-Esa es la contradicción en la que estoy ahora.
+**Esa es la contradicción en la que estoy ahora.**
 
-Utilizo IA para recurrir multas, revisar contratos, defender mis derechos ante una aseguradora y coordinar trabajos que antes me habrían llevado días. No quiero renunciar a nada de eso.
+Utilizo IA para recurrir multas, revisar contratos, defender mis derechos ante una aseguradora y coordinar trabajos que antes me habrían llevado días. **No quiero renunciar a nada de eso.**
 
 Pero tampoco quiero vivir en un mundo donde cada interacción esté optimizada hasta el punto de que nadie se detenga a preguntar:
 
-**«¿Qué estás intentando hacer realmente?»**
+***«¿Qué estás intentando hacer realmente?»***
 
-Quizá no echo de menos la lentitud. Quizá lo que echo de menos es sentir que, al otro lado, alguien entiende el contexto.
+Quizá no echo de menos la lentitud. Quizá lo que echo de menos es sentir que, al otro lado, alguien **entiende el contexto**.
 
 Y todavía no sé si estamos utilizando la IA para recuperar tiempo para las personas o para eliminarlas de todo aquello que no cabe en una métrica de eficiencia y rentabilidad.
 
 Todavía no sé qué equilibrio encontraremos. Pero cada vez tengo más claro que el futuro no debería obligarnos a elegir entre máquinas eficientes y humanos que entienden el contexto.
 
-Porque ahorrar tiempo sirve de poco si, al hacerlo, eliminamos a las personas con las que queríamos compartirlo.
+Porque **ahorrar tiempo sirve de poco si, al hacerlo, eliminamos a las personas con las que queríamos compartirlo**.
 
 *Estas son mis opiniones personales, no las de mi empleador. Ya me he equivocado antes – no dudéis en decirme que me equivoco otra vez.*
