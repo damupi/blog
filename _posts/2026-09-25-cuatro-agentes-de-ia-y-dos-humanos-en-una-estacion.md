@@ -49,7 +49,7 @@ No sé si habían externalizado las reservas, cambiado el sistema o simplemente 
 
 Quizá la paella era la misma. Quizá era yo. Pero me supo peor.
 
-Mientras esperaba, miré una de las fotografías antiguas de la pared y me pregunté si aquello era progreso o si era solo una manera más rentable de hacer pasar personas por una mesa.
+Mientras esperaba, miré una de las fotografías antiguas de la pared en la que aparecía Jesulín de Ubrique con la Pepica y me pregunté si aquello era progreso o si era solo una manera más rentable de hacer pasar personas por una mesa.
 
 No echo de menos tener que llamar cinco veces para conseguir una reserva. Tampoco quiero esperar media hora para que alguien encuentre mi nombre en una libreta. Pero algo de aquella experiencia más lenta parecía haberse perdido por el camino.
 
