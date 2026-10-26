@@ -63,8 +63,6 @@ I have also published a companion repository containing:
 
 [Explore the MeasureCamp Madrid 2026 companion repository](https://github.com/damupi/measurecamp-madrid-2026-ai-setup).
 
-Everything in the public package has been reviewed and sanitised. It contains no company identifiers, production data, credentials or links to private systems.
-
 ## The CLIs underneath the agents
 
 The agents are useful because they operate through tools with clear, inspectable interfaces. Three of the main command-line projects behind my daily setup are:
