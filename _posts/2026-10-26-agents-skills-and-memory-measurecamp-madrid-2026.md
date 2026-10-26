@@ -7,9 +7,9 @@ category: professional
 
 ![First-time speakers at MeasureCamp Madrid 2026](/img/2026-10-26-measurecamp-madrid-agents-skills-memory-1.jpg)
 
-This weekend I gave my third MeasureCamp session at [**MeasureCamp Spain – Madrid 2026**](https://spain.measurecamp.org/).
+This weekend I gave my third MeasureCamp session at <a href="https://spain.measurecamp.org/" target="_blank" rel="noopener noreferrer"><strong>MeasureCamp Spain – Madrid 2026</strong></a>.
 
-The session, *Agents, Skills and Memory: My Daily AI System*, received the **Best Session – From Data to Business Impact** award, sponsored by [JAKALA](https://www.jakala.com/).
+The session, *Agents, Skills and Memory: My Daily AI System*, received the **Best Session – From Data to Business Impact** award, sponsored by <a href="https://www.jakala.com/" target="_blank" rel="noopener noreferrer">JAKALA</a>.
 
 The award was a lovely surprise. What stayed with me even more was that the conversation continued after the scheduled end. People wanted to understand what was behind the demonstration and how the system worked outside a conference room.
 
@@ -61,15 +61,15 @@ I have also published a companion repository containing:
 - the simplified system canvas;
 - the local dataLayer simulator used to explain the final debugging step.
 
-[Explore the MeasureCamp Madrid 2026 companion repository](https://github.com/damupi/measurecamp-madrid-2026-ai-setup).
+<a href="https://github.com/damupi/measurecamp-madrid-2026-ai-setup" target="_blank" rel="noopener noreferrer">Explore the MeasureCamp Madrid 2026 companion repository</a>.
 
 ## The CLIs underneath the agents
 
 The agents are useful because they operate through tools with clear, inspectable interfaces. Three of the main command-line projects behind my daily setup are:
 
-- [`gafour`](https://github.com/damupi/gafour) for GA4 reporting and metadata inspection.
-- [`gtm-cli`](https://github.com/damupi/gtm-cli) for Google Tag Manager administration and controlled workspace workflows.
-- [`gaad-cli`](https://github.com/damupi/gaad-cli) for administering GA4 properties through the Admin API.
+- <a href="https://github.com/damupi/gafour" target="_blank" rel="noopener noreferrer"><code>gafour</code></a> for GA4 reporting and metadata inspection.
+- <a href="https://github.com/damupi/gtm-cli" target="_blank" rel="noopener noreferrer"><code>gtm-cli</code></a> for Google Tag Manager administration and controlled workspace workflows.
+- <a href="https://github.com/damupi/gaad-cli" target="_blank" rel="noopener noreferrer"><code>gaad-cli</code></a> for administering GA4 properties through the Admin API.
 
 A CLI alone is not an agent. The agent adds responsibility and limits. The skill adds the procedure. Memory adds reusable context. The CLI provides the deterministic interface through which the work is inspected and performed.
 
