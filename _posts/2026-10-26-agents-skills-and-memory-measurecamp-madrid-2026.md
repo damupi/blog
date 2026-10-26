@@ -7,7 +7,7 @@ category: professional
 
 ![First-time speakers at MeasureCamp Madrid 2026](/img/2026-10-26-measurecamp-madrid-agents-skills-memory-1.jpg)
 
-This weekend I gave my first session at [**MeasureCamp Spain – Madrid 2026**](https://spain.measurecamp.org/).
+This weekend I gave my third MeasureCamp session at [**MeasureCamp Spain – Madrid 2026**](https://spain.measurecamp.org/).
 
 The session, *Agents, Skills and Memory: My Daily AI System*, received the **Best Session – From Data to Business Impact** award, sponsored by [JAKALA](https://www.jakala.com/).
 
